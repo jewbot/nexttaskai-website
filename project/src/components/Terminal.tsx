@@ -1,4 +1,4 @@
-import React from 'react';
+aiimport React from 'react';
 import { Terminal as TerminalIcon } from 'lucide-react';
 import { IPhoneAscii } from './IPhoneAscii';
 import { TerminalPrompt } from './TerminalPrompt';
@@ -35,7 +35,7 @@ export function Terminal() {
             </TerminalPrompt>
             
             <div className="border-t border-green-500/20 pt-4 mt-8">
-              <p className="text-sm opacity-70">Type 'help' for available commands</p>
+              <p className="text-sm opacity-70">Email 'help@nexttask.ai' for available commands or any inquiries.</p>
               <p className="text-sm opacity-70">© 2024 NextTask AI Inc. | Building the future of AI-powered apps</p>
             </div>
           </div>
