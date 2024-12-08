@@ -1,4 +1,4 @@
-aiimport React from 'react';
+import React from 'react';
 import { Terminal as TerminalIcon } from 'lucide-react';
 import { IPhoneAscii } from './IPhoneAscii';
 import { TerminalPrompt } from './TerminalPrompt';
